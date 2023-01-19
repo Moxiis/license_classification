@@ -1,1 +1,2 @@
-# license_classification
+# license classification
+License classification model for company.
